@@ -1,0 +1,33 @@
+{
+  "name": "nego-ney",
+  "version": "1.0.0",
+  "description": "An API to change your life",
+  "main": "index.js",
+  "keywords": [
+    "Nego Ney",
+    "meme",
+    "nego ney",
+    "api",
+    "mene",
+    "negoney"
+  ],
+  "license": "MIT",
+  "author": "Cofey",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonatasfernandespimenta/NegoNeyAPI.git"
+  },
+  "dependencies": {
+    "images-scraper": "^5.0.3",
+    "opn": "^6.0.0",
+    "wallpaper": "^4.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/jonatasfernandespimenta/NegoNeyAPI/issues"
+  },
+  "homepage": "https://github.com/jonatasfernandespimenta/NegoNeyAPI#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
